@@ -14,9 +14,7 @@ When citing **TermPrompt** in academic papers and theses, please use the followi
 @InProceedings{TermPrompt,
   author = {Amir Hazem and kyo Kageura},
   title = "{TermPrompt: Optimal Prompt Design for Automatic Term Extraction Using Incremental Few-Shot Learning}",
-  booktitle = {Artificial Neural Networks and Machine Learning - {ICANN} 2026 - 35th
-                  International Conference on Artificial Neural Networks, Padua, Italy,
-                  September 14-17, 2025, Proceedings},
+  booktitle = {Artificial Neural Networks and Machine Learning - {ICANN} 2026 - 35th International Conference on Artificial Neural Networks,                Padua, Italy, September 14-17, 2025, Proceedings},
   year = {2026},
   month = {September 14-17},
   address = {Padova, Italy.}

@@ -24,3 +24,6 @@ When citing **TermPrompt** in academic papers and theses, please use the followi
 ```
 
 ## Requirements
+
+## To do:
+- 
